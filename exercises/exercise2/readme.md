@@ -11,4 +11,4 @@ Welcome to my GitHub! I am a student passionate about data, currently building m
 *To be updated as I learn more programming languages and data tools!*
 
 ## 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/your-profile) *(Replace this link with your actual LinkedIn URL)*
+- [LinkedIn](https://www.linkedin.com/in/kenneth-saw-chzi-yang-6a2928385/)
